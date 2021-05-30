@@ -287,6 +287,10 @@ require 'utiles.php';
         </li>
         
     </ul>
+    
+    <form name="volver" method="post" action="index.php">
+            <input type="submit" value="Volver a inicio">
+    </form>
 
 </body>
 </html>
